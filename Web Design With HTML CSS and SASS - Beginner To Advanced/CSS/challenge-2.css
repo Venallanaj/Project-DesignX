@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #333;
+    padding: 1px 0;
+    text-align: center;
+    color: white;
+}
+.container{
+    border:  1px solid #777;
+    border-radius: 5px;
+    margin: 0 auto;
+    width: 50%;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.footer {
+    background-color: #333;
+    padding: 1px 0;
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+}
+.footer p span {
+  color: red;
+}
